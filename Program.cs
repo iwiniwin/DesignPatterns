@@ -6,7 +6,7 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            SimpleFactoryPattern.Demo.Execute();
+            SimpleFactoryPattern.Demo.Test();
         }
     }
 }
