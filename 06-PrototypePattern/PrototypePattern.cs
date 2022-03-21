@@ -14,6 +14,9 @@
 using System;
 namespace PrototypePattern 
 {
+    /// <summary>
+    /// 简历
+    /// </summary>
     public class Resume : ICloneable
     {
         private string name;
